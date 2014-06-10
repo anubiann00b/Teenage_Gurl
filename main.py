@@ -7,7 +7,8 @@ possibleWords = ['like idk',
                  'idk',
                  'lol',
                  'I can\'t even',
-                 'I\'m so done!']
+                 'I\'m so done!',
+                 'Why is everyone so obsessed with me?']
 
 while(1):
 	raw_input("You >> ")
