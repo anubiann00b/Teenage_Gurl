@@ -2,7 +2,8 @@ from random import choice
 
 possibleWords = ['like idk',
                  'omg shut up you are so annoying',
-                 'just shut up','wat r u tlking about?!',
+                 'just shut up',
+		 'wat r u tlking about?!',
                  'omg',
                  'idk',
                  'lol',
